@@ -17,7 +17,7 @@ import Predict from "./pages/Predict";
 import Workout from "./pages/WorkOut";
 import Leaderboard from "./pages/Leaderboard";
 import AdminLogin from "./admin/AdminLogin";
-import AdminPanel from "./admin/Adminpanel";
+import AdminPanel from "./admin/AdminPanel";
 
 function AppContent() {
   const location = useLocation();
