@@ -16,7 +16,7 @@ import Activity from "./pages/Activity";
 import Predict from "./pages/Predict";
 import Workout from "./pages/WorkOut";
 import Leaderboard from "./pages/Leaderboard";
-import AdminLogin from "./admin/Adminlogin";
+import AdminLogin from "./admin/AdminLogin";
 import AdminPanel from "./admin/Adminpanel";
 
 function AppContent() {
